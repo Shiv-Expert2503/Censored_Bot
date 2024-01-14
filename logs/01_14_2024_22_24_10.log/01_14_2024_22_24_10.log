@@ -1,0 +1,23 @@
+[ 2024-01-14 22:24:11,440 ] 30 root - INFO - Pinged your deployment. You successfully connected to MongoDB!
+[ 2024-01-14 22:24:13,745 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getMe "HTTP/1.1 200 OK"
+[ 2024-01-14 22:24:14,150 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/deleteWebhook "HTTP/1.1 200 OK"
+[ 2024-01-14 22:24:14,152 ] 620 telegram.ext.Application - INFO - Application started
+[ 2024-01-14 22:24:22,128 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-14 22:24:22,153 ] 44 root - INFO - Bot Started By user Shivansh
+[ 2024-01-14 22:24:23,623 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/sendMessage "HTTP/1.1 200 OK"
+[ 2024-01-14 22:24:23,625 ] 57 root - INFO - DM by Shivansh
+[ 2024-01-14 22:24:32,555 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-14 22:24:32,931 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-14 22:24:32,933 ] 302 root - INFO - Text by user Shivansh, text is Hello
+[ 2024-01-14 22:24:34,108 ] 1013 httpx - INFO - HTTP Request: POST https://translate.google.com/_/TranslateWebserverUi/data/batchexecute?rpcids=MkEWBc&bl=boq_translate-webserver_20201207.13_p0&soc-app=1&soc-platform=1&soc-device=1&rt=c "HTTP/2 200 OK"
+[ 2024-01-14 22:24:37,464 ] 385 root - INFO - {'label': 'toxic', 'score': 0.0009314668131992221} by Shivansh
+[ 2024-01-14 22:24:44,864 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-14 22:24:44,866 ] 302 root - INFO - Text by user Shivansh, text is Fuck you bitch
+[ 2024-01-14 22:24:45,640 ] 1013 httpx - INFO - HTTP Request: POST https://translate.google.com/_/TranslateWebserverUi/data/batchexecute?rpcids=MkEWBc&bl=boq_translate-webserver_20201207.13_p0&soc-app=1&soc-platform=1&soc-device=1&rt=c "HTTP/2 200 OK"
+[ 2024-01-14 22:24:47,103 ] 385 root - INFO - {'label': 'toxic', 'score': 0.9977986216545105} by Shivansh
+[ 2024-01-14 22:24:49,357 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/deleteMessage "HTTP/1.1 200 OK"
+[ 2024-01-14 22:24:49,921 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/sendMessage "HTTP/1.1 200 OK"
+[ 2024-01-14 22:24:57,577 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-14 22:25:08,824 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-14 22:25:08,826 ] 653 telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+[ 2024-01-14 22:25:08,826 ] 678 telegram.ext.Application - INFO - Application.stop() complete
