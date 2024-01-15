@@ -6,12 +6,12 @@ def set_up_connection():
     """
     This function setup connection to the database
     """
-    uri = "mongodb+srv://shivansh1:abcdefghijk@cluster0.yc3hy9y.mongodb.net/?retryWrites=true&w=majority"
-    db_name = "coders-magglu-keee"
+    uri = MONGODB_URI
+    db_name = DMNAME
 
     client = pymongo.MongoClient(uri)
     database = client[db_name]
-    collection_name = "harry-puttar"
+    collection_name = COLLECTIONNAME
 
     try:
         client.admin.command('ping')
