@@ -1,0 +1,54 @@
+[ 2024-01-15 13:52:55,567 ] 15 root - INFO - Pinged your deployment. You successfully connected to MongoDB!
+[ 2024-01-15 13:52:56,169 ] 15 root - INFO - Pinged your deployment. You successfully connected to MongoDB!
+[ 2024-01-15 13:52:59,944 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getMe "HTTP/1.1 200 OK"
+[ 2024-01-15 13:53:00,487 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/deleteWebhook "HTTP/1.1 200 OK"
+[ 2024-01-15 13:53:00,489 ] 620 telegram.ext.Application - INFO - Application started
+[ 2024-01-15 13:53:07,147 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:53:07,171 ] 39 root - INFO - Bot Started By user Shivansh
+[ 2024-01-15 13:53:10,860 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/sendMessage "HTTP/1.1 200 OK"
+[ 2024-01-15 13:53:10,864 ] 52 root - INFO - DM by Shivansh
+[ 2024-01-15 13:53:17,699 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:53:19,848 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:53:19,851 ] 65 root - INFO - [['/start', '/help', '/translate'], ['/translate_voice', '/audio_to_text'], ['/languages_available']]
+[ 2024-01-15 13:53:21,383 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/sendMessage "HTTP/1.1 200 OK"
+[ 2024-01-15 13:53:23,946 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:53:23,948 ] 109 root - INFO - Voice Translation activated by Shivansh
+[ 2024-01-15 13:53:24,527 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/sendMessage "HTTP/1.1 200 OK"
+[ 2024-01-15 13:53:34,389 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:53:35,786 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:53:37,605 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getFile "HTTP/1.1 200 OK"
+[ 2024-01-15 13:53:37,606 ] 119 root - INFO - https://api.telegram.org/file/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/voice/file_28.oga
+[ 2024-01-15 13:53:37,606 ] 120 root - INFO - Voice send by Shivansh voice file is https://api.telegram.org/file/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/voice/file_28.oga
+[ 2024-01-15 13:53:38,163 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/sendMessage "HTTP/1.1 200 OK"
+[ 2024-01-15 13:53:42,886 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:53:42,888 ] 134 root - INFO - Voice_translation main process started
+[ 2024-01-15 13:53:42,888 ] 137 root - INFO - https://api.telegram.org/file/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/voice/file_28.oga
+[ 2024-01-15 13:53:51,363 ] 152 root - INFO - Exported
+[ 2024-01-15 13:53:53,818 ] 1013 httpx - INFO - HTTP Request: POST https://translate.google.com/_/TranslateWebserverUi/data/batchexecute?rpcids=MkEWBc&bl=boq_translate-webserver_20201207.13_p0&soc-app=1&soc-platform=1&soc-device=1&rt=c "HTTP/2 200 OK"
+[ 2024-01-15 13:53:55,242 ] 1013 httpx - INFO - HTTP Request: POST https://translate.google.com/_/TranslateWebserverUi/data/batchexecute?rpcids=MkEWBc&bl=boq_translate-webserver_20201207.13_p0&soc-app=1&soc-platform=1&soc-device=1&rt=c "HTTP/2 200 OK"
+[ 2024-01-15 13:53:55,244 ] 163 root - INFO - Shivansh Original Text: hi this is a testing of the (Detected Language: en)
+[ 2024-01-15 13:53:55,244 ] 164 root - INFO - Shivansh Translation to hi: \u0939\u093e\u092f \u092f\u0939 \u090f\u0915 \u092a\u0930\u0940\u0915\u094d\u0937\u0923 \u0939\u0948
+[ 2024-01-15 13:54:00,422 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/sendMessage "HTTP/1.1 200 OK"
+[ 2024-01-15 13:54:00,424 ] 168 root - INFO - Removed
+[ 2024-01-15 13:54:06,397 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:54:16,770 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:54:27,146 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:54:37,524 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:54:47,908 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:54:58,289 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:55:08,694 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:55:19,136 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:55:29,582 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:55:40,036 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:55:50,480 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:56:00,857 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:56:11,365 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:56:22,422 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:56:32,866 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:56:43,242 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:56:53,663 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:57:04,099 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:57:14,545 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:57:22,225 ] 1729 httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs/getUpdates "HTTP/1.1 200 OK"
+[ 2024-01-15 13:57:22,226 ] 653 telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+[ 2024-01-15 13:57:22,226 ] 678 telegram.ext.Application - INFO - Application.stop() complete
