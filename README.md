@@ -34,3 +34,13 @@ Elevate your Telegram group with the power of intelligent language processing an
 5. Now enjoy the bot
 
 # Working Demo
+## Starting of the bot
+![photo_2024-01-15_14-50-22](https://github.com/Shiv-Expert2503/Censored_Bot/assets/122978299/59e89ca1-028e-44e9-9512-556783b7ebfe)
+## Available commands and a dedicated keyboard for that
+![2](https://github.com/Shiv-Expert2503/Censored_Bot/assets/122978299/a3634225-7f07-49a3-b743-832061a003cb)
+## More than 70+ languages supported
+![2 5](https://github.com/Shiv-Expert2503/Censored_Bot/assets/122978299/3320e31a-33ef-49aa-b269-c0b6780c00b6)
+## Transcribing and Translation of the voice/audio files
+![3](https://github.com/Shiv-Expert2503/Censored_Bot/assets/122978299/f6c8a535-e18f-492a-9b02-6ca641f56b45)
+## Image analysis
+![4](https://github.com/Shiv-Expert2503/Censored_Bot/assets/122978299/dc2b07f7-900b-4b54-a65d-e457700710cf)
