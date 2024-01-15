@@ -25,7 +25,7 @@ database, colletion_name = set_up_connection()
 
 # Initialising Everything
 
-Token = '6666820551:AAH4qD0_CXR1QacZkW6UXgzI0j5RvchCKhs'
+Token = Your_Bot_Token
 
 
 # handling start command
