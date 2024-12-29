@@ -2,6 +2,9 @@
 Introducing our cutting-edge Telegram bot, equipped with a powerful array of features designed to enhance your group's communication experience and foster a
 safer and more inclusive environment. Say goodbye to offensive language, spam, and communication barriers – our bot is here to revolutionize the way you interact on Telegram.
 
+# Python Version
+Use Python version ==> 3.11
+
 # Key Features:
 
 1. Offensive Language Detection:
